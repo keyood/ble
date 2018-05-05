@@ -24,8 +24,8 @@
           <view class="section">
            <text>接收到消息</text>
            <view class="section">
-            <textarea auto-height />
-          </view>
+           {{}}
+           </view>
            </view>
            <view class="section">
             <text>发送消息</text>
